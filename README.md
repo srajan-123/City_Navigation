@@ -6,3 +6,4 @@ Major algorithms used-
 Dijkstra's Algorithm: Used for finding the shortest path between nodes in the graph.
 Prim's Algorithm: Used for constructing the Minimum Spanning Tree (MST) of the graph.
 
+changed using terminal
